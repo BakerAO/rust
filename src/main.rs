@@ -33,7 +33,7 @@ fn b() {
 fn c() {
   assert!(1u32 + 2 == 3);
   assert!(1i32 - 2 == -1);
-  assert!(1i8 - 2 == -1); 
+  assert!(1i8 - 2 == -1);
   
   assert!(3 * 50 == 150);
   assert!(9.6_f32 / 3.2 == 3.0);
